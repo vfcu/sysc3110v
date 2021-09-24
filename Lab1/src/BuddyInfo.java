@@ -23,6 +23,7 @@ public class BuddyInfo {
         BuddyInfo test =  new BuddyInfo("Homer", "456 Street", "987 654 3210");
         System.out.println("Hello " + test.getName());
 
+
     }
 
 
